@@ -1,0 +1,8 @@
+2025-05-05: Ported orig_src/Checksum.cc to rdfind-rs/src/checksum.rs
+2025-05-05: Ported orig_src/Checksum.hh to rdfind-rs/src/checksum.rs
+2025-05-05: Ported orig_src/CmdlineParser.hh and orig_src/CmdlineParser.cc to rdfind-rs/src/cmdline_parser.rs
+2025-05-05: Ported orig_src/Dirlist.cc to rdfind-rs/src/dirlist.rs
+2025-05-05: Ported orig_src/EasyRandom.cc and orig_src/EasyRandom.hh to rdfind-rs/src/easy_random.rs
+2025-05-05: Ported orig_src/Fileinfo.cc to rdfind-rs/src/fileinfo.rs
+2025-05-05: Ported orig_src/RdfindDebug.hh to rdfind-rs/src/rdfind_debug.rs
+2025-05-05 00:00:00 | Ported orig_src/UndoableUnlink.cc to rdfind-rs/src/undoable_unlink.rs

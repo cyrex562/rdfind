@@ -1,0 +1,12 @@
+[package]
+name = "rdfind-rs"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+chrono = "0.4.41"
+md5 = "0.7.0"
+rand = "0.9.1"
+sha1 = "0.10.6"
+sha2 = "0.10.9"
+xxhash-rust = { version = "0.8.15", features = ["xxh3"] }
